@@ -1,2 +1,2 @@
 # Database Analytics and Programming
- Football Analytics using Python
+ Football Player Analytics using Python
